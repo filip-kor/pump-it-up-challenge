@@ -152,3 +152,8 @@ Can't access. Benchmarking SVM, Random Forest and ANNs. RFs the best.
 [A mixture Weibull proportional hazard model for mechanical system failure prediction utilising lifetime and monitoring data](https://www.sciencedirect.com/science/article/pii/S0888327013005165)
 
 Doesn't really mention the parameter used. Might need to take another look at it.
+
+[Pump it Up: Data Mining the Water Table](https://www.researchgate.net/publication/345888631_Pump_it_Up_Data_Mining_the_Water_Table)
+
+Weird paper but its exactly about this dataset. DO NOT CITE THIS.
+
