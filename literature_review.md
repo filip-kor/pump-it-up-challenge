@@ -207,3 +207,15 @@ Awful formatting. I'll come back to it later.
 [Integrated Performance Assessment Model for Water Networks](https://ascelibrary.org/doi/10.1061/%28ASCE%29IS.1943-555X.0000419)
 
 Idk if its useful. Needs a deeper review.
+
+[Comparative evaluation of machine learning models for groundwater quality assessment](https://link.springer.com/article/10.1007/s10661-020-08695-3)
+
+comparing ANNs, SVMs and XGBs to predict the nitrate and pesticide contamination levels in groundwater wells. Also examines oversampling techniques.
+
+[SWaP: Probabilistic Graphical and Deep Learning Models for Water Consumption Prediction](https://dl.acm.org/doi/10.1145/3360322.3360846)
+
+predicts water consumption. probably not useful.
+
+[Know-what, know-when and know-how: A web and mobile-based android application for early detection of pump failures in rural water supply projects, Tanzania](https://iwaponline.com/wpt/article/17/11/2447/91797/Know-what-know-when-and-know-how-A-web-and-mobile)
+
+A new app to help predict failures. Can be useful to mention background about the issue.
