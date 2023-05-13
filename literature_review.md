@@ -219,3 +219,16 @@ predicts water consumption. probably not useful.
 [Know-what, know-when and know-how: A web and mobile-based android application for early detection of pump failures in rural water supply projects, Tanzania](https://iwaponline.com/wpt/article/17/11/2447/91797/Know-what-know-when-and-know-how-A-web-and-mobile)
 
 A new app to help predict failures. Can be useful to mention background about the issue.
+
+[Failure Prediction of Mine De-watering Pumps](https://www.researchgate.net/publication/325494442_Failure_Prediction_of_Mine_De-watering_Pumps)
+
+Uses a Weibull distribution model, which is used for many product failure prediction methods apparently. Cannot access full text.
+
+[Failure Prediction of Municipal Water Pipes Using Machine Learning Algorithms](https://link.springer.com/article/10.1007/s11269-022-03080-w)
+
+Random Forest - Synthetic minority oversampling performed best, followed by undersampling, an imbalanced method, and oversampling. All RF methods outperformed a logistic regression.
+
+
+
+
+
