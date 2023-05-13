@@ -228,7 +228,11 @@ Uses a Weibull distribution model, which is used for many product failure predic
 
 Random Forest - Synthetic minority oversampling performed best, followed by undersampling, an imbalanced method, and oversampling. All RF methods outperformed a logistic regression.
 
+[Fault diagnosis and classification of water pump using adaptive neuro-fuzzy inference system based on vibration signals](https://journals.sagepub.com/doi/epub/10.1177/1475921715591873)
 
+Uses ANFIS - neural networks used to optimise a fuzzy logic system. Probably useless.
 
+[https://www.academia.edu/9859291/Introduction_Classification_AND_Selection_OF_Pumps_W_C_Krutzch_Paul_Cooper_Chapter_1_](Introduction: Classification AND Selection OF Pumps W. C. Krutzch Paul Cooper)
 
+Complete bullshit
 
