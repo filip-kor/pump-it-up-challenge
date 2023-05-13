@@ -236,3 +236,11 @@ Uses ANFIS - neural networks used to optimise a fuzzy logic system. Probably use
 
 Complete bullshit
 
+[https://www.sciencedirect.com/science/article/pii/S0951832021006694](Machine learning based water pipe failure prediction: The effects of engineering, geology, climate and socio-economic factors)
+
+Used LightGBM - LightGBM consists of Gradient-based One-Side Sampling (GOSS), Exclusive Feature Bundling (EFB), and histogram and leaf-wise tree growth strategy. GOSS is a sampling method which keeps all instances with large gradients and perform random sampling on the instances with small gradient. EFB is used together with histogram algorithms to avoid one-hot encoding of categorical features. Also used SVC and ANN as separate approaches. LightGBM was the best method for both balanced and imbalanced datasets. Shapley Additive exPlanations (SHAP) used to rank feature importance.
+
+
+
+
+
