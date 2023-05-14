@@ -7,7 +7,7 @@
 3. Region code + Region name? Maybe drop region name which is more general
 - districts are a subfeature of region -> merge them?
 - each region has actually a different lga so a merge of region name + lga + ward + subvillage could also make sense (maybe check which has higher predictibility?); they use ward for imputation but it's dropped for modelling (?)
-- maybe assign a sorted number from 1 (lowest functionality) to 20k or sth (highest functionality)
+- maybe assign a sorted number from 1 (lowest functionality) to 20k or sth (highest functionality) - target encoding
 
 5. longitude and latitude 0s
 
@@ -17,4 +17,6 @@
 
 8. permit is rather useless
 
-9. extraction_class - some are rare; 
+9. extraction_class - some are rare; assing 'wind-powered' to 'motorpump' and 'rope pump' to 'handpump'
+
+10. management_group - 88% of data is one class and the rest very small
