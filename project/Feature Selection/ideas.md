@@ -22,3 +22,7 @@
 10. management_group - 88% of data is one class and the rest very small
 
 11. For each column with missing values - does the value being missing predict water pump functionality? Could we create extra binary features for each column where values are missing?
+
+12. management group and scheme management - target encoding?
+- scheme_management is associated with extraction_type - private operators prefer submersible extraction_type and VWC prefer gravity
+- "management" and "scheme_management" are very misleading, they have some similar classes but are sometimes mixed; "management" should be dropped
