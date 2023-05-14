@@ -37,3 +37,6 @@
 
 16. "source type" and "source class" should probably be dropped. they're less detailed versions of "source".
 - merge "unknown" and "other"
+
+17. "waterpoint type group" and "waterpoint type" are mostly similar, but "waterpoint type" is slightly better (more classes) - keep this one. 
+- merge the low cardinality ones.
