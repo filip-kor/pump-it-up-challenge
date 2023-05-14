@@ -29,4 +29,8 @@
 
 13. "Payment" and "Payment type" are the same. drop one.
 
-14. water quality can depend on a season. good idea to plot the quality with the recorded month to check if thats true and drop (or engineer) "water_quality" it if thats the case.
+14. quality group can depend on a season. good idea to plot the quality with the recorded month to check if thats true and drop (or engineer) "quality_group" it if thats the case.
+- water_quality is basically the same with some salty and fluaride further separated, but the resulting classes have very few datapoints. better leave "quality_group".
+
+15. quantity_group also needs a check between redorded month. can be seasonal.
+- quantity has the exact same information -> can be dropped
