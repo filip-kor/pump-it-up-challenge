@@ -1264,3 +1264,9 @@ Accuracy score train: 0.9276289484206317
 Accuracy score test: 0.8148989898989899
 Weights: [0.346, 0.549, 0.709, 0.316]
 Best weights: [0.861, 0.78, 0.706, 0.751] with result: 0.8175925925925925
+
+Iteration: 1
+Accuracy score train: 0.9443590984658768
+Accuracy score test: 0.8159090909090909
+Weights: [0.636, 0.719, 0.461, 0.859]
+Best weights: [0.636, 0.719, 0.461, 0.859] with result: 0.8159090909090909
