@@ -232,15 +232,38 @@ Random Forest - Synthetic minority oversampling performed best, followed by unde
 
 Uses ANFIS - neural networks used to optimise a fuzzy logic system. Probably useless.
 
-[https://www.academia.edu/9859291/Introduction_Classification_AND_Selection_OF_Pumps_W_C_Krutzch_Paul_Cooper_Chapter_1_](Introduction: Classification AND Selection OF Pumps W. C. Krutzch Paul Cooper)
+[Introduction: Classification AND Selection OF Pumps W. C. Krutzch Paul Cooper](https://www.academia.edu/9859291/Introduction_Classification_AND_Selection_OF_Pumps_W_C_Krutzch_Paul_Cooper_Chapter_1_)
 
 Complete bullshit
 
-[https://www.sciencedirect.com/science/article/pii/S0951832021006694](Machine learning based water pipe failure prediction: The effects of engineering, geology, climate and socio-economic factors)
+[Machine learning based water pipe failure prediction: The effects of engineering, geology, climate and socio-economic factors](https://www.sciencedirect.com/science/article/pii/S0951832021006694)
 
 Used LightGBM - LightGBM consists of Gradient-based One-Side Sampling (GOSS), Exclusive Feature Bundling (EFB), and histogram and leaf-wise tree growth strategy. GOSS is a sampling method which keeps all instances with large gradients and perform random sampling on the instances with small gradient. EFB is used together with histogram algorithms to avoid one-hot encoding of categorical features. Also used SVC and ANN as separate approaches. LightGBM was the best method for both balanced and imbalanced datasets. Shapley Additive exPlanations (SHAP) used to rank feature importance.
 
 
+[Classifying Structural Condition of Deteriorating Stormwater Pipes Using Support Vector Machine](https://ascelibrary.org/doi/10.1061/41138%28386%2982)
 
+SVM outperformed ANN for pipe failure prediction. Can't access full paper
 
+[Understanding Stormwater Pipe Deterioration Through Data Mining](https://www.chijournal.org/C374)
+
+Decision Tree approach in imbalanced dataset. Construction year was the most important feature, followed by pipe-specific factors like diameter, length, etc. Fundementally a similar problem to ours, but based on sewer pipe failure.
+
+[A Data Mining Tool for Planning Sanitary Sewer Condition Inspection](https://www.researchgate.net/publication/273408674_Predictive_and_Spatial_Analytics_for_Planning_Inspections_of_Linear_Sewer_Infrastructure)
+
+Same as above, but for different, also imbalanced, dataset
+
+[Predicting the structural condition of individual sanitary sewer pipes with random forests](https://www.researchgate.net/publication/263610169_Predicting_the_structural_condition_of_individual_sanitary_sewer_pipes_with_random_forests)
+
+Random forests - similar problem to above. No comparison to any other methods?
+
+[Comparing the utility of decision trees and support vector machines when planning inspections of linear sewer infrastructure](https://iwaponline.com/jh/article/16/6/1265/3335/Comparing-the-utility-of-decision-trees-and)
+
+Decision Trees vs SVM - Decision Tree outperforms SVM
+
+[Application of Artificial Neural Networks ( ANN ) to model the failure of urban water mains](https://www.sciencedirect.com/science/article/pii/S0895717710000051)
+
+[Bagging–XGBoost algorithm based extreme weather identification and short-term load forecasting model](https://www.sciencedirect.com/science/article/pii/S2352484722012124)
+
+Bagged XGBoost
 
