@@ -26,3 +26,7 @@
 12. management group and scheme management - target encoding?
 - scheme_management is associated with extraction_type - private operators prefer submersible extraction_type and VWC prefer gravity
 - "management" and "scheme_management" are very misleading, they have some similar classes but are sometimes mixed; "management" should be dropped
+
+13. "Payment" and "Payment type" are the same. drop one.
+
+14. water quality can depend on a season. good idea to plot the quality with the recorded month to check if thats true and drop (or engineer) "water_quality" it if thats the case.
