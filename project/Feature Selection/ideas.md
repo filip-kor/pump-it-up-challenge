@@ -20,3 +20,5 @@
 9. extraction_class - some are rare; assing 'wind-powered' to 'motorpump' and 'rope pump' to 'handpump'
 
 10. management_group - 88% of data is one class and the rest very small
+
+11. For each column with missing values - does the value being missing predict water pump functionality? Could we create extra binary features for each column where values are missing?
