@@ -5,11 +5,16 @@
 2. keep recorded month as a separate feature apart from engineered age (time from created to recorded)
 
 3. Region code + Region name? Maybe drop region name which is more general
-
-4. districts are a subfeature of region -> merge them?
+- districts are a subfeature of region -> merge them?
+- each region has actually a different lga so a merge of region name + lga + ward + subvillage could also make sense (maybe check which has higher predictibility?); they use ward for imputation but it's dropped for modelling (?)
+- maybe assign a sorted number from 1 (lowest functionality) to 20k or sth (highest functionality)
 
 5. longitude and latitude 0s
 
 6. big cardinality of funder and installer
 
-7. 
+7. population bins? missing values in population
+
+8. permit is rather useless
+
+9. extraction_class - some are rare; 
