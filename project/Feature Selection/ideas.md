@@ -34,3 +34,5 @@
 
 15. quantity_group also needs a check between redorded month. can be seasonal.
 - quantity has the exact same information -> can be dropped
+
+16. "source class" should probably be dropped. it's a less detailed version of "source type".
