@@ -1,0 +1,21 @@
+1 --------------------------------------------------------------
+
+weights: [0.861, 0.78, 0.706, 0.751]
+
+Accuracy score (train): 0.9395
+Accuracy score (test): 0.8216
+Precision score (train): 0.9412
+Precision score (test): 0.8237
+Recall score (train): 0.9395
+Recall score (test): 0.8216
+F1 score (train): 0.9388
+F1 score (test): 0.8175
+                         precision    recall  f1-score   support
+
+             functional       0.80      0.91      0.85      6452
+functional needs repair       0.82      0.55      0.66      1400
+         non functional       0.86      0.78      0.82      4565
+
+               accuracy                           0.82     12417
+              macro avg       0.82      0.75      0.78     12417
+           weighted avg       0.82      0.82      0.82     12417
