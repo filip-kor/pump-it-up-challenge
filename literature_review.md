@@ -267,3 +267,6 @@ Decision Trees vs SVM - Decision Tree outperforms SVM
 
 Bagged XGBoost
 
+[Applying Cost-Sensitive Classification for Financial Fraud Detection under High Class-Imbalance](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7022596)
+
+PCA and Factor Analysis
